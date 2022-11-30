@@ -22,7 +22,7 @@
 }
 .calculator-display {
   background-color: rgb(59, 69, 69);
-  border: solid 1px white;
+  border: solid 1px rgb(18, 228, 10);
   color: white;
   font-size: 25px;
   font-weight: medium;
@@ -44,7 +44,7 @@
 .calculator-buttons > button {
   background-color: rgb(59, 69, 69);
   color: white;
-  border: solid 1px white;
+  border: solid 1px rgb(18, 228, 10);
   border-radius: 10px;
   font-size: 25px;
   font-weight: medium;
@@ -55,5 +55,5 @@
 }
 .calculator-buttons > button:hover {
   background-color: grey;
-  color: yellow;
+  color: rgb(18, 228, 10);
 }
